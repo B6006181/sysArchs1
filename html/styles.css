@@ -5,3 +5,12 @@ p{color: green;font-fmaily; Arial;}
 h1{color: purple; font-fmaily:Aharoni;}
 
 h3 {color:blue; font-fmaily:garamond;}
+
+ul{
+  list-style-type: lower-roman;
+  
+  color: yellow;
+  
+  font-family:"iskoola pota";
+  
+}
