@@ -14,3 +14,9 @@ ul{
   font-family:"iskoola pota";
   
 }
+
+div{
+border:10px dotted black;
+padding:15px;
+background:lightblue;
+background-clip:padding-box;
